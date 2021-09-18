@@ -1,4 +1,5 @@
-.db
-.log
+*.db
+*.log
+*.txt.orig
 /target
 bin
