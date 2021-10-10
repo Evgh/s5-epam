@@ -1,0 +1,4 @@
+Lab 3: Introduction to Testing
+
+Функциональное тестирование сайта just2trade.online
+Тест кейсы: 
