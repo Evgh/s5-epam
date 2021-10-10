@@ -1,4 +1,5 @@
-Lab 3: Introduction to Testing
-
+#Lab 3: Introduction to Testing
 Функциональное тестирование сайта just2trade.online
-Тест кейсы: 
+__
+№ | Проверка | Предусловия | Шаги | Ожидаемый результат | Статус |
+1 | | | | | |
